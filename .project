@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>PyInvaders</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.python.pydev.pythonNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Nexa.ttf</name>
+			<type>1</type>
+			<location>C:/Users/KAT/Documents/Nexa.ttf</location>
+		</link>
+		<link>
+			<name>Ship.png</name>
+			<type>1</type>
+			<location>C:/Users/KAT/Documents/Ship.png</location>
+		</link>
+		<link>
+			<name>alien.png</name>
+			<type>1</type>
+			<location>C:/Users/KAT/Documents/alien.png</location>
+		</link>
+		<link>
+			<name>backy.jpg</name>
+			<type>1</type>
+			<location>C:/Users/KAT/Documents/backy.jpg</location>
+		</link>
+		<link>
+			<name>bullet.png</name>
+			<type>1</type>
+			<location>C:/Users/KAT/Documents/bullet.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
